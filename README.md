@@ -1,15 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=igorsharov.igorsharov" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ihor+Sharov!;" />
-</h1>
-
-<div align="center">
-
-# Hi 👋, I'm a Full-Stack JavaScript Developer from Ukraine!
-
-I have more than 6 years of experience in Software Development. I'm skilled in:
-
 ### Frontend Skills:
 - 📌 **React.js, Next.js, Redux, JavaScript, TypeScript**
 - 📌 All kinds of UI development including **Bootstrap/Material-UI**, Charts, 3D visualization, animations
