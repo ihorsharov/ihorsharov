@@ -4,31 +4,38 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ihor+Sharov!;" />
 </h1>
 
-<h3 align="center">A passionate Web developer from Ukraine</h3>
-
-<br/>
-
 <div align="center">
 
- 🔭 I’m currently working on **a marketplace**
+# Hi 👋, I'm a Full-Stack JavaScript Developer from Ukraine!
 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+I have more than 6 years of experience in Software Development. I'm skilled in:
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/igorsharov/igorsharov/issues)**
+### Frontend Skills:
+- 📌 **React.js, Next.js, Redux, JavaScript, TypeScript**
+- 📌 All kinds of UI development including **Bootstrap/Material-UI**, Charts, 3D visualization, animations
+- 📌 **RESTful API, GraphQL**, Third-party APIs (like Stripe, Twilio, Google Maps, etc.), Firebase
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+### Backend Skills:
+- 📌 **Node.js, Nest.js**
+- 📌 **MongoDB, SQL, DynamoDB, PostgreSQL**
+- 📌 **Express, JWT, FS, Nodemailer, Socket.IO, Mongoose, Sequelize, Cors**, etc.
+- 📌 **Amazon Web Services** (DynamoDB, S3, EC2), Heroku, Firebase, etc.
 
- </div>
+### Here are some examples of my work:
+- 📌 [Vuukle - Audience Ecosystem](http://vuukle.com/)
+- 📌 [Bringly - Carefree & sustainable delivery platform for omnichannel retailers](https://www.bringly.nl/)
+- 📌 [Speakly - application for studying foreign languages](https://www.speakly.me/)
+- 📌 [TinyEmail - Marketing platform with Stripe integration](https://www.tinyemail.com/)
+- 📌 [SDSManager - System for Safety Data Sheet management](https://inventory.sdsmanager.com/)
+- 📌 [Stonedapecrew - Website for NFT project](http://stonedapecrew.com/)
+
+Looking forward to great cooperation with you!
+
+</div>
 
 <div align="center">
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:ihorsharov75@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -38,19 +45,12 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/igorsharov/igorsharov/output/github-contribution-grid-snake.svg" />
-
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
@@ -66,11 +66,3 @@
 <br/><br/>
 
 <hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
